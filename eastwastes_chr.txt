@@ -1,0 +1,9 @@
+8
+dke,dke
+brm,lfaydark_chr
+pri,pri_chr
+trk,hateplane_chr
+tar,tar
+efr,soltemple_chr
+com,thurgadina_chr
+sed,sed_chr

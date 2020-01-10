@@ -1,0 +1,12 @@
+10
+tar,tar
+dre,dre
+min,steamfont_chr
+gor,cazicthule_chr
+avi,southkarana_chr
+cpm,warrens_chr
+gnn,blackburrow_chr
+gri,commons_chr
+liz,oot_chr
+tre,southkarana_chr
+dvm,mistmoore_chr

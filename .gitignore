@@ -2,6 +2,8 @@
 !.gitignore
 !dbstr_us.txt
 !spells_us.txt
+!ecommons_chr.txt
+!eastwastes_chr.txt
 !*/
 !*/Resources/SkillCaps.txt
 !*/Resources/BaseData.txt
