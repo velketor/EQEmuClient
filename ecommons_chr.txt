@@ -1,4 +1,4 @@
-12
+16
 tar,tar
 dre,dre
 min,steamfont_chr
@@ -11,3 +11,7 @@ liz,oot_chr
 tre,southkarana_chr
 dvm,mistmoore_chr
 rgm,rgm_chr
+dji,dji_chr
+efr,soltemple_chr
+spc,frozenshadow_chr
+clm,steamfont_chr
