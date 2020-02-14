@@ -1,9 +1,12 @@
-8
+11
+con,con
+con,thurgadinb2_chr
 dke,dke
 brm,lfaydark_chr
 pri,pri_chr
-trk,hateplane_chr
+trk,hateplaneb_chr
 tar,tar
 efr,soltemple_chr
-com,thurgadina_chr
 sed,sed_chr
+abh,frozenshadow_chr
+stu,stu_chr
