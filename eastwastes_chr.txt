@@ -1,5 +1,4 @@
-11
-con,con
+10
 con,thurgadinb2_chr
 dke,dke
 brm,lfaydark_chr
