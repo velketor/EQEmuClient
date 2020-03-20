@@ -1,4 +1,4 @@
-10
+14
 con,thurgadinb2_chr
 dke,dke
 brm,lfaydark_chr
@@ -9,3 +9,7 @@ efr,soltemple_chr
 sed,sed_chr
 abh,frozenshadow_chr
 stu,stu_chr
+dru,hateplane_chr
+clm,steamfont_chr
+spi,ecommons_chr
+gdr,gdr_chr
