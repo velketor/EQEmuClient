@@ -3,7 +3,7 @@ con,thurgadinb2_chr
 dke,dke
 brm,lfaydark_chr
 pri,pri_chr
-trk,hateplaneb_chr
+trk,sebilis_chr
 tar,tar
 efr,soltemple_chr
 sed,sed_chr
