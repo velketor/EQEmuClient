@@ -1,5 +1,4 @@
-14
-con,thurgadinb2_chr
+13
 dke,dke
 brm,lfaydark_chr
 pri,pri_chr
@@ -11,5 +10,5 @@ abh,frozenshadow_chr
 stu,stu_chr
 dru,hateplane_chr
 clm,steamfont_chr
-spi,ecommons_chr
+spi,ecofmons_chr
 gdr,gdr_chr

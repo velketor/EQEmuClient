@@ -4,8 +4,11 @@
 !spells_us.txt
 !ecommons_chr.txt
 !eastwastes_chr.txt
+!eastwastes_obj.s3d
 !*/
 !*/Resources/SkillCaps.txt
 !*/Resources/BaseData.txt
+!*/Resources/GlobalLoad.txt
 !SkillCaps.txt
 !BaseData.txt
+!GlobalLoad.txt
