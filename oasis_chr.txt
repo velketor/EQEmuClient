@@ -1,0 +1,8 @@
+7
+cst,cst
+rom,rom_chr
+tar,tar
+dke,dke
+spq,spq
+avi,southkarana_chr
+pir,tox_chr
