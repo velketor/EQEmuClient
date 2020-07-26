@@ -1,4 +1,4 @@
-14
+15
 dke,dke
 brm,lfaydark_chr
 pri,pri_chr
@@ -13,3 +13,4 @@ clm,steamfont_chr
 spi,ecofmons_chr
 gdr,gdr_chr
 spi,ecommons_chr
+gnn,blackburrow_chr
