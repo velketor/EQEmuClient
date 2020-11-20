@@ -1,3 +1,2 @@
-2
+1
 dke,dke
-dji,dji_chr
