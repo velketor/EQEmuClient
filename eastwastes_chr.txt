@@ -10,7 +10,7 @@ abh,frozenshadow_chr
 stu,stu_chr
 dru,hateplane_chr
 clm,steamfont_chr
-spi,ecofmons_chr
-gdr,gdr_chr
 spi,ecommons_chr
+gdr,gdr_chr
 gnn,blackburrow_chr
+dji,dji_chr
